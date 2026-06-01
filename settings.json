@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Fadidream.aternos.me",
+    "port": 13854,
+    "version": "1.26.21.1",
     "try-creative": false
   },
   "position": {
